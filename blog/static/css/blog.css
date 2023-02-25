@@ -1,0 +1,31 @@
+h1 a , h2 a {
+    color: #b814ea;
+
+}
+
+.page-header {
+    background-color: #62e112;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 40px;
+}
+.page-header h1,
+.page-header h1 a,
+.page-header h1 a:visited,
+.page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
+h1 {
+    font-family: 'Lobster', cursive;
+}
+.date {
+    color: #afa9a9;
+}
+.save {
+    float: right;
+}
+.post {
+    margin-bottom: 70px;
+}
